@@ -1,0 +1,8 @@
+.profile__card {
+  max-width: 340px;
+  margin: 0 244px 0 30px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-start;
+}
