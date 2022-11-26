@@ -7,3 +7,12 @@
   grid-template-rows: repeat(2, 1fr);
   gap: 20px 17px;
 }
+
+@media screen and (max-width: 847px) {
+  .elements-container {
+    gap: 20px 0;
+    margin-bottom: 48px;
+  }
+
+
+}

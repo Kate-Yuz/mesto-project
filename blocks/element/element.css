@@ -3,3 +3,9 @@
   max-width: 282px;
   min-height: 361px;
 }
+
+@media screen and (max-width: 842px) {
+  .element {
+    
+  }
+}

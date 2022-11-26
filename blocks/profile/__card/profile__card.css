@@ -6,3 +6,13 @@
   align-items: center;
   justify-content: flex-start;
 }
+
+@media screen and (max-width: 847px) {
+  .profile__card {
+    max-width: 282px;
+    margin: 0 auto;
+    margin-bottom: 36px;
+    justify-content: center;
+    align-items: center;
+  }
+}

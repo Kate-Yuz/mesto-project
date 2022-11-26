@@ -1,0 +1,8 @@
+.popup__fields {
+  margin: 0 36px 48px 36px;
+  border: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  max-width: 100%;
+}
