@@ -1,4 +1,4 @@
-.popup__button {
+.popup__submit-button {
   margin: 0 auto 37px auto;
   background: #000000;
   border-radius: 2px;
@@ -13,7 +13,7 @@
   color: #ffffff;
 }
 
-.popup__button:hover {
+.popup__submit-button:hover {
     cursor: pointer;
     opacity: 0.8;
 }

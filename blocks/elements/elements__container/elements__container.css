@@ -1,4 +1,4 @@
-.elements-container {
+.elements__container {
   margin: 0;
   padding: 0;
   list-style: none;
@@ -9,10 +9,8 @@
 }
 
 @media screen and (max-width: 847px) {
-  .elements-container {
+  .elements__container {
     gap: 20px 0;
     margin-bottom: 48px;
   }
-
-
 }

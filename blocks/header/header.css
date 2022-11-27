@@ -3,7 +3,7 @@
   max-width: 880px;
 }
 
-header::after {
+.header::after {
   content: "";
   width: 100%;
   opacity: 0.7;
