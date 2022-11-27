@@ -1,5 +1,6 @@
 .popup__field {
   margin: 0;
+  padding: 0;
   max-width: 358px;
   min-height: 27px;
   border: none;
@@ -12,4 +13,12 @@
 
 .popup__field:first-child {
   margin-bottom: 30px;
+}
+
+@media screen and (max-width: 600px) {
+  .popup__field {
+    max-width: 238px;
+    font-size: 14px;
+    line-height: 17px;
+  }
 }
