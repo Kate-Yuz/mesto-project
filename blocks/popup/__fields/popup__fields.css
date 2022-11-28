@@ -1,5 +1,6 @@
 .popup__fields {
   margin: 0 36px 48px 36px;
+  padding: 0;
   border: none;
   display: flex;
   flex-direction: column;

@@ -18,7 +18,5 @@
 @media screen and (max-width: 600px) {
   .popup__field {
     max-width: 238px;
-    font-size: 14px;
-    line-height: 17px;
   }
-}
+} 

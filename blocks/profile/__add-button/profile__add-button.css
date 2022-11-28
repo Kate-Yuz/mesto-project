@@ -3,7 +3,7 @@
   border-radius: 2px;
   min-width: 150px;
   height: 50px;
-  background-color: rgba(0,0,0,0.5);
+  background-color: transparent;
   background: url(../../../images/plus.svg) no-repeat center;
 }
 
@@ -15,5 +15,6 @@
 @media screen and (max-width: 320px) {
   .profile__add-button {
     width: 282px;
+    background-size: 16px 16px;
   }
 }
