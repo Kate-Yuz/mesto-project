@@ -2,5 +2,7 @@
   margin: 0;
   max-width: 282px;
   justify-self: center;
+  background-color: #fff;
+  border-radius: 10px;
 }
 
